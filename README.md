@@ -6,4 +6,4 @@ I Denna uppgift ska vi:
 2. Skapa personlig README-fil för ens profil
 3. Använda Github Pages
 
-OBS! För att klona denna repository från Visual Studio så skriver du kommandot: git clone 
+OBS! För att klona denna repository från Visual Studio så skriver du kommandot: git clone https://github.com/olfa1902/WebbutvecklingIII_Moment1
